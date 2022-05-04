@@ -1,7 +1,7 @@
 # sex.spwn
 Sex implemented into SPWN.
 
-# Usage (using SPGHTT package)
+# Usage (using [SPGHTT](https://github.com/Unzor/spghtt) package)
 ```
 let sex = import sex
 let girl = sex.girl
