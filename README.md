@@ -14,3 +14,19 @@ male.dick.suck(10)
 girl.ass.smack()
 male.bitches = 1
 ```
+
+Output
+```
+oh yeah! ohhh yeah! harder bitch! harder daddy!
+slurp
+slurp
+slurp
+slurp
+slurp
+slurp
+slurp
+slurp
+slurp
+slurp
+*smack*  
+```
