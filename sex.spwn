@@ -33,7 +33,8 @@ let girl = {
 
 let male = {
 	dick: dick,
-	bitches: 0
+	bitches: 0,
+	isChad: (self) => self.bitches > 0
 }
 
 return {
