@@ -13,6 +13,7 @@ male.dick.stickItIn(girl.ass)
 male.dick.suck(10)
 girl.ass.smack()
 male.bitches = 1
+$.print(male.isChad())
 ```
 
 Output
@@ -29,4 +30,5 @@ slurp
 slurp
 slurp
 *smack*  
+true
 ```
