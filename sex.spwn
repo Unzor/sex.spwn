@@ -6,13 +6,13 @@ let dick = {
 	}, cum: (){
 		$.print('ooh yeah')
 	},
-	stickItIn: function(ass) {
+	stickItIn: (ass) {
 		ass.onDick()
 	}
 }
 let size = 0
 let ass = {
-	size: size
+	size: size,
 	smack: () {
 		$.print('*smack*')
 	},
@@ -22,16 +22,21 @@ let ass = {
 }
 
 let girl = {
-	moan(name) {
+	moan: (name) {
 		$.print('oh yeah! ohhh yeah! harder ' + name + '! harder daddy!')
 	},
 	cheatOn: () {
 		$.print('She left you.')
-	}
+	},
+	ass: ass
+}
+
+let male = {
+	dick: dick,
+	bitches: 0
 }
 
 return {
 	girl: girl,
-	dick: dick,
-	ass: ass
+	male: male
 }
